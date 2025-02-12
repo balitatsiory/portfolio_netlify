@@ -1,0 +1,9 @@
+[build]
+   base="portfolio_netlify"
+   command="npm build"
+   publish="dist/browser"
+
+   [[redirects]]
+   from="/*"
+   to="index.html"
+   status=200
