@@ -1,5 +1,9 @@
 # portfolio_netlify
 Portfolio professionnel, développé avec Angular pour le frontend et Node.js v20.15.1 pour le backend. Il présente mon parcours, mes expériences professionnelles, 
+# Step by Step
+https://www.youtube.com/watch?v=nADnC-esRjc
+https://www.netlify.com/blog/deploy-your-angular-v17-apps-to-netlify/
+cmd : netlify init
 # Myportfolio
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.3.
