@@ -1,5 +1,4 @@
 [build]
-   base="portfolio_netlify"
    command="npm build"
    publish="dist/myportfolio/browser"
 
