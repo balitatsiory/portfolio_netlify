@@ -1,5 +1,7 @@
 # portfolio_netlify
 Portfolio professionnel, développé avec Angular pour le frontend et Node.js v20.15.1 pour le backend. Il présente mon parcours, mes expériences professionnelles, 
+
+Déployé avec Netlify, mon lien : [https://www.youtube.com/@grafikart](https://www.youtube.com/@grafikart)
 # Step by Step
 https://www.youtube.com/watch?v=nADnC-esRjc
 https://www.netlify.com/blog/deploy-your-angular-v17-apps-to-netlify/
